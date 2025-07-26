@@ -25,8 +25,8 @@ https://github.com/user-attachments/assets/5793b287-abc7-4465-903e-67249fe1d39d
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repository-url>
-   cd Behavior-Analysis-Dashboard
+   git clone https://github.com/farhanaugustine/Gait_Analysis_DeepLabCut.git
+   cd Gait_Analysis_DeepLabCut
    ```
 
 2. **Install Dependencies**:
