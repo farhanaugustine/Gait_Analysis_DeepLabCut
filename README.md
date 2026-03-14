@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/farhanaugustine/Gait_Analysis_DeepLabCut)
+
 # Gait_Analysis_DeepLabCut
 Configurable Python project for analyzing gait in animal video experiments.
 
